@@ -77,7 +77,7 @@ It runs the whole business — not just the storefront.
 
 The application source is private. If you'd like a deeper look — code samples, an architecture call, a demo of a specific subsystem — reach out:
 
-- Email: clint@technolo.co
+- Email: clintdotphillips@gmail.com
 - LinkedIn: [linkedin.com/in/clintonphillips](https://www.linkedin.com/in/clintonphillips)
 - GitHub: [github.com/0xdeadd](https://github.com/0xdeadd)
 
